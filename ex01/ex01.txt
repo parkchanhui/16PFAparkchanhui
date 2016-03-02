@@ -1,2 +1,1 @@
-2011110031 sunjun 0302
-Computer programming fundanmantal
+print "Hollow world"
